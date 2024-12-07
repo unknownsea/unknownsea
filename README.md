@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @unknownsea
+- 👀 Just a sigma that loves the andromeda galaxy and is one of those who know
