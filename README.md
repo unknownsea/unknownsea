@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @unknownsea
-- 👀 Just a sigma that loves the andromeda galaxy and is one of those who know
+![Statistics](https://github-readme-stats.vercel.app/api?username=UnknownSea&show_icons=true&theme=dark&text_bold=true)
