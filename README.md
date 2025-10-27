@@ -1,5 +1,5 @@
-![](https://github-readme-stats.vercel.app/api?username=UnknownSea&show_icons=true&theme=dark&text_bold=true)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/unknownsea/unknownsea/refs/heads/main/csm_wide_2.jpg" alt="Chainsaw Man" width="100%">
+</p>
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=UnknownSea&repo=Andromeda&theme=dark&text_bold=true)
-
-`"I’m so messed up." - Shinji Ikari`
+`"I wanna touch some boobs..." - Denji`
