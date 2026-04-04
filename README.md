@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./shinji.gif" width="100%">
+  <img src="./wttnhk.jpg" width="100%">
 </p>
 
-`"I’m so fucked up." - ...`
+`"It's all a conspiracy" - Tatsuhiro Sato`
