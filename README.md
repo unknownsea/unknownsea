@@ -2,12 +2,13 @@
   <img src="./lain_1.jpg" width="100%">
 </p>
 
+<!--
 <p align="left">
   <img src="/lain_3.jpg" width="49%" align="top">
   &nbsp;&nbsp;
   <img src="/lain_2.jpg" width="49%" align="top">
 </p>
-
+-->
 
 <!--
 <p align="center">
