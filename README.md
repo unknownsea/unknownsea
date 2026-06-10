@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="./lain_1.jpg" width="100%">
+  <img src="./cry_of_fear.jpg" width="100%">
 </p>
 
 <!--
